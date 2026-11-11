@@ -1,8 +1,8 @@
-# README – Analisis Data dan Preprocessing Properti
+# README – Harga Rumah JABODETABEK
 
 ## 1. Informasi Proyek
 
-**Nama Proyek:** Analisis Eksplorasi dan Preprocessing Data Properti Rumah di Jabodetabek
+**Nama Proyek:** Harga Rumah JABODETABEK
 
 **Deskripsi:**
 
@@ -14,10 +14,9 @@ Analisis dilakukan untuk memahami karakteristik data, mengidentifikasi permasala
 
 | No. | Nama Anggota | NIM |
 |---|---|---|
-| 1 | [Nama Anggota 1] | [NIM] |
-| 2 | [Nama Anggota 2] | [NIM] |
-| 3 | [Nama Anggota 3] | [NIM] |
-| 4 | [Nama Anggota 4] | [NIM] |
+| 1 | [Haikal Azkal Azkiya] | [2488010038] |
+| 2 | [Najwa Ramadhan] | [2488010001] |
+| 3 | [Nisa Naila] | [2488010024] |
 
 ## 3. Tools dan Paket yang Digunakan
 
@@ -26,7 +25,6 @@ Analisis dilakukan untuk memahami karakteristik data, mengidentifikasi permasala
 
 **Platform:**
 - Google Colab
-- Jupyter Notebook (opsional)
 
 **Library Python:**
 - `pandas` – manipulasi dan pengolahan data.
